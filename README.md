@@ -3,6 +3,8 @@
 App de paródia para Android que calcula quanto o seu tempo no banheiro custa para você e para sua empresa, a partir do seu salário.
 Cronômetro, dashboard, conquistas, um mini jogo (Poopy Jump) e um ranking opcional.
 
+<img width="1536" height="1024" alt="divulgação1" src="https://github.com/user-attachments/assets/c17e97ab-2ef7-4008-aafc-529957311b7e" />
+
 > **Aviso:** é uma brincadeira. Os valores são estimativas e não representam custo trabalhista real.
 
 ## ⬇️ Baixar
@@ -45,3 +47,6 @@ Quer conferir a integridade do arquivo? O **SHA-256** está nas notas de cada ve
 ## Sobre este repositório
 
 Aqui ficam apenas as versões e os APKs. O código-fonte não é público. Todos os direitos reservados.
+
+<img width="940" height="1672" alt="divulgação2" src="https://github.com/user-attachments/assets/c10409a6-811e-4bc7-9c47-e6cd2ab35160" />
+
