@@ -1,6 +1,6 @@
 # 💩 Golden Poopy
 
-App de paródia para Android que calcula quanto o seu tempo no banheiro custa, a partir do seu salário.
+App de paródia para Android que calcula quanto o seu tempo no banheiro custa para você e para sua empresa, a partir do seu salário.
 Cronômetro, dashboard, conquistas, um mini jogo (Poopy Jump) e um ranking opcional.
 
 > **Aviso:** é uma brincadeira. Os valores são estimativas e não representam custo trabalhista real.
